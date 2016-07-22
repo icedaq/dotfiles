@@ -1,0 +1,8 @@
+https://github.com/vim-scripts/peaksea
+https://github.com/garbas/vim-snipmate
+https://github.com/ctrlpvim/ctrlp.vim
+https://github.com/junegunn/goyo.vim
+https://github.com/amix/vim-zenroom2
+https://github.com/tpope/vim-commentary
+https://github.com/maxbrunsfeld/vim-yankstack
+
